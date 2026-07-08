@@ -5,7 +5,7 @@ import "fmt"
 type weekday int
 
 const (
-	sunday weekday = iota
+	sunday weekday= iota
 	monday
 	tuesday
 	wednesday
